@@ -1,6 +1,4 @@
-# -_-
-
-import os
+#import os
 from random import randrange
 from random import choice
 
